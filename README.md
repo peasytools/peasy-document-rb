@@ -2,6 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/peasy-document.svg)](https://rubygems.org/gems/peasy-document)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://agentgif.com/badge/github/peasytools/peasy-document-rb/stars.svg)](https://github.com/peasytools/peasy-document-rb)
 
 Ruby client for the [PeasyFormats](https://peasyformats.com) API -- convert between Markdown, JSON, YAML, CSV, and other document formats with tools for format identification, MIME type lookup, and structured data transformation. Zero dependencies beyond Ruby stdlib (Net::HTTP, JSON, URI).
 
