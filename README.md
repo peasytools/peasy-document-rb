@@ -11,7 +11,7 @@ Built from [PeasyFormats](https://peasyformats.com), a comprehensive document co
 > **Try the interactive tools at [peasyformats.com](https://peasyformats.com)** -- [Markdown to HTML](https://peasyformats.com/doc/markdown-to-html/), [YAML/JSON Converter](https://peasyformats.com/doc/yaml-json-converter/), [Format Identifier](https://peasyformats.com/doc/format-identifier/), and more.
 
 <p align="center">
-  <img src="demo.gif" alt="peasy-document demo -- Markdown, JSON, YAML, and CSV conversion tools in Ruby terminal" width="800">
+  <a href="https://agentgif.com/8DgsMWio"><img src="https://media.agentgif.com/8DgsMWio.gif" alt="peasy-document demo -- Markdown, JSON, YAML, and CSV conversion tools in Ruby terminal" width="800"></a>
 </p>
 
 ## Table of Contents
